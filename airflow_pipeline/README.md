@@ -27,9 +27,9 @@ I used the popular pagila dataset for this project.
 
 ## Airflow Structure
 ### Tree view
-()[https://github.com/geewynn/pagila/blob/master/airflow_pipeline/images/airflow%20tree.jpg]
+![](https://github.com/geewynn/pagila/blob/master/airflow_pipeline/images/airflow%20tree.jpg)
 ### Graph View
-()[https://github.com/geewynn/pagila/blob/master/airflow_pipeline/images/airflow%20graph.jpg]
+![](https://github.com/geewynn/pagila/blob/master/airflow_pipeline/images/airflow%20graph.jpg)
 
 ## Setting up the project
    1. Create an IAM user and take note of the secret key and access key.
