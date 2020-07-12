@@ -24,6 +24,13 @@ I used the popular pagila dataset for this project.
     4. create_tables.sql: this contains the sql queries to create the tables.
     5. dwh.cfg: contains the configuration codes for our aws infrastructures.
 
+
+## Airflow Structure
+### Tree view
+!()[https://github.com/geewynn/pagila/blob/master/airflow_pipeline/images/airflow%20tree.jpg]
+### Graph View
+!()[https://github.com/geewynn/pagila/blob/master/airflow_pipeline/images/airflow%20graph.jpg]
+
 ## Setting up the project
    1. Create an IAM user and take note of the secret key and access key.
    2. Create aws redshift role: Create a redshift role under IAM.
